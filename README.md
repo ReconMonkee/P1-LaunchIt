@@ -33,3 +33,4 @@ Grade: B
 
 
 ## Third-Party Assets
+Images are from "Physics Assets". Created by Kenny.nl, [CC0 1.0 Universal](https://creativecommons.ord/publicdomain/zero/1.0). Source: https://www.kenney.nl/assets/physics-assets
