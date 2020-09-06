@@ -4,8 +4,11 @@ extends RigidBody2D
 export var xAngle : int = 0
 export var yAngle : int = 0
 export var strength : int = 0
+
 var launch_check = 0
 func _process(delta):
+	xAngle = clamp(xAngle, 0, 10)
+	yAngle = clamp(yAngle, 0, -10)
 	if launch_check == 0:
 		if Input.is_action_just_pressed("x_force_down") && xAngle <= 10:
 			xAngle -=1
