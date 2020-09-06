@@ -1,7 +1,7 @@
 # Project 1: LaunchIt
 A Web Game created by ejbowers
 
-GitHub Pages Link: 
+GitHub Pages Link: http://ejbowers.github.io/bsu-cs315/P1-LaunchIt
 
 ## Project Report
     I found this project very interesting and fun. Learning how the interactions between objects and how the physics engine works was really neat. One thing I struggled a little bit with was being able to aim the ball in a direction and have an amount of power be determined as well. I don't think I ended up doing it in the prettiest and best way possible but I was glad when I was able to figure it out. I'm hoping the rest of this project helps me learn more new things so I can create things like this more freely in teh future.
